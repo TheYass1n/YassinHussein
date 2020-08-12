@@ -1,5 +1,13 @@
 ![Hi there, This is Yassin Profile](https://raw.githubusercontent.com/YassinHussein/YassinHussein/master/hi_there.png)
 
+```
+I am an expert in Web and Mobile Development using technologies React, React Native Redux, GraphQL, Node, Front-end, Back-end, Database with more than 2 years of development.
+
+My mobility stack usually includes React-navigation (Navigation between screens), Flow or props type or typescript (For props type checker), Native-based (react-native UI component), Redux (for state management), redux saga (as middleware library).
+```
+
+---
+
 - 🔭 I’m currently working on 2D mobile game
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on React.js, Node.js, Javascript
