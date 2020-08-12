@@ -5,7 +5,6 @@
 [![Twitter: YassinHusseiin](https://img.shields.io/twitter/follow/YassinHusseiin?style=social)](https://twitter.com/YassinHusseiin)
 [![Linkedin: YassinHussein](https://img.shields.io/badge/-YassinHussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YassinHussein/)](https://www.linkedin.com/in/YassinHussein/)
 [![GitHub YassinHussein](https://img.shields.io/github/followers/YassinHussein?label=follow&style=social)](https://github.com/YassinHussein)
-[](https://komarev.com/ghpvc/?username=YassinHussein&label=Views&color=blue&style=plastic)
 
 
 ```
