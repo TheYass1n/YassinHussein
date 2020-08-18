@@ -8,7 +8,7 @@
 
 
 ```
-I am an expert in Web and Mobile Development using technologies React,
+I am a Web and Mobile Development using technologies React,
 React Native Redux, GraphQL, Node, Front-end, Back-end, Database with 
 more than 2 years of development.
 
