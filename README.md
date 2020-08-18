@@ -22,7 +22,7 @@ Redux (for state management), redux saga (as middleware library).
 - 🔭 I’m currently working on 2D mobile game
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on React.js, Node.js, Javascript
-- 🤔 I’m looking for help with AWS
+- 🤔 I’m looking for help with landing a remote job.
 - 💬 Ask me any thing about Javascript
 <!--
 <p align="center">
