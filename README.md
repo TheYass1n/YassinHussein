@@ -7,28 +7,6 @@
 [![GitHub YassinHussein](https://img.shields.io/github/followers/YassinHussein?label=follow&style=social)](https://github.com/YassinHussein)
 
 
-```
-I am a Web and Mobile Development using technologies React,
-React Native Redux, GraphQL, Node, Front-end, Back-end, Database with 
-more than 2 years of development.
-
-My mobility stack usually includes React-navigation (Navigation between screens),
-Flow or props type or typescript (For props type checker), Native-based (react-native UI component),
-Redux (for state management), redux saga (as middleware library).
-```
-
----
-
-- 🔭 I’m currently working on 2D mobile game
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on React.js, Node.js, Javascript
-- 🤔 I’m looking for help with landing a remote job.
-- 💬 Ask me any thing about Javascript
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassinHussein&show_icons=true">
-</p>
--->
 
 
 
