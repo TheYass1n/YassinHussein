@@ -28,8 +28,4 @@
 <a href="https://www.facebook.com/yaseen.hussein/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://wa.me/+249993535955">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/whatsapp.svg" />
-</a>
-
 
